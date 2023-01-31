@@ -2,6 +2,8 @@ package com.onlinephoneshop.dao;
 
 import java.util.List;
 
+import com.onlinephoneshop.entity.Users;
+
 public class UserDAO extends BaseDAO<Users> implements GenericDAO<Users> {
 
 	@Override
